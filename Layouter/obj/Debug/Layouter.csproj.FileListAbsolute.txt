@@ -1,0 +1,13 @@
+C:\Users\Roman\source\repos\Layouter\Layouter\bin\Debug\Layouter.exe.config
+C:\Users\Roman\source\repos\Layouter\Layouter\bin\Debug\Layouter.exe
+C:\Users\Roman\source\repos\Layouter\Layouter\bin\Debug\Layouter.pdb
+C:\Users\Roman\source\repos\Layouter\Layouter\obj\Debug\Layouter.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\Layouter\Layouter\obj\Debug\Layouter.Properties.Resources.resources
+C:\Users\Roman\source\repos\Layouter\Layouter\obj\Debug\Layouter.csproj.GenerateResource.cache
+C:\Users\Roman\source\repos\Layouter\Layouter\obj\Debug\Layouter.csproj.CopyComplete
+C:\Users\Roman\source\repos\Layouter\Layouter\obj\Debug\Layouter.exe
+C:\Users\Roman\source\repos\Layouter\Layouter\obj\Debug\Layouter.pdb
+C:\Users\Roman\source\repos\Layouter\Layouter\bin\Debug\GlobalHookKeys.dll
+C:\Users\Roman\source\repos\Layouter\Layouter\bin\Debug\GlobalHookKeys.pdb
+C:\Users\Roman\source\repos\Layouter\Layouter\obj\Debug\Layouter.Frm1.resources
+C:\Users\Roman\source\repos\Layouter\Layouter\bin\Debug\AutoHotkey.Interop.dll
